@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-06T18:16:50.619Z
-Commit: Fix broken links in documentation
+Timestamp: 2026-03-06T18:16:56.460Z
+Commit: Fix memory leak in event handlers
